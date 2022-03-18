@@ -1,5 +1,6 @@
 /* смена языка */
 .change-lang {
+  position: relative;
   display: block;
   margin-left: 83%;
   margin-top: -20px;
