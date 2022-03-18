@@ -15,7 +15,7 @@ const langArr = {
         "deu": "Über mich",
     },
     "socialskills-social": {
-        "ua": "Навички",
+        "ua": "Скіли",
         "eng": "Skills",
         "deu": "Fähigkeiten",
     },
