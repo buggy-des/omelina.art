@@ -177,6 +177,7 @@ hr {
   padding-top: 50px;
   margin-left: auto;
   margin-right: auto;
+  width: 960px;
 }
 
 .photogallery {
@@ -214,8 +215,9 @@ hr {
   padding-top: 50px;
   text-align: center;
   background-color: #000;
-  marin-left: auto;
+  margin-left: auto;
   margin-right: auto;
+  width: 960px;
 }
 
 .text_contacts {
