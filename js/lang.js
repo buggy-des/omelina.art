@@ -70,7 +70,7 @@ const langArr = {
         "deu": "Bereit, exzellente Projekte mit wunderbaren Menschen umzusetzen.",
     },
     "skdesc": {
-        "ua": "Навички",
+        "ua": "Скіли",
         "eng": "Skills",
         "deu": "Fähigkeiten",
     },
