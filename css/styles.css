@@ -211,6 +211,8 @@ hr {
   padding-top: 50px;
   text-align: center;
   background-color: #000;
+  marin-left: auto;
+  margin-right: auto;
 }
 
 .text_contacts {
